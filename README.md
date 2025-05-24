@@ -1,2 +1,2 @@
 # Launcher API
-An api for the launcher
+The API for the launcher
