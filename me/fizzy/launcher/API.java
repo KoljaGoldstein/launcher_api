@@ -6,6 +6,6 @@ public class API {
     }
 
     public static int getRank() {
-        return 10;
+        return 1;
     }
 }
